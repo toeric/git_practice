@@ -1,6 +1,6 @@
 import sys
 
-def say_hello():
+def say_hello_world():
 	print("Hello World")
 
-say_hello()
+say_hello_world()
