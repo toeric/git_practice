@@ -31,3 +31,6 @@ show_love_to_century_egg("Penguin")
 
 print("1")
 print("2")
+print("3")
+
+print("stage")
