@@ -12,10 +12,6 @@ def show_love(name1, name2):
 	print(name1 + " loves " + name2)
 	return
 
-def show_love(name1, name2):
-	print(name1 + " loves " + name2)
-	return
-
 def show_love_to_century_egg(name):
 	print(name + " loves Century Egg")
 	return
