@@ -29,4 +29,5 @@ show_love_to_century_egg("Novem")
 show_love_to_century_egg("Jocelyn")
 show_love_to_century_egg("Penguin")
 
+print("1")
 print("2")
