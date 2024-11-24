@@ -12,6 +12,9 @@ def show_love(name1, name2):
 	print(name1 + " loves " + name2)
 	return
 
+def show_love(name1, name2):
+	print(name1 + " loves " + name2)
+
 say_hello_world()
 say_hello_to("Novem")
 say_hello_to("Jocelyn")
